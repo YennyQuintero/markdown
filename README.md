@@ -21,8 +21,6 @@ Este sería el resultado
 ###### Título 6
 
 
-
-
 <!-- LISTAS DESORDENADAS <u>--->
 ### Listas desordenadas
 Se pueden utilizar varios símbolos: *,-,+
@@ -41,13 +39,14 @@ Para hacer uso del ~~tachado~~ se escribe el texto entre doble virgulilla que la
 si requieres usar una linea horizontal sólo debes usar tres asteriscos 
 *** 
 
-para insertar una barra usas tres virgulillas usando Alt+126
-~~~ barra
+<!--para insertar una barra usas tres virgulillas usando Alt+126
+~~~ barra-->
 
 <--comentario→
 
 ## Generar Tablas
 use el siguiente código
+
 ~~~
 Nombre|Apellido|nota|
 ---|---|---
@@ -56,6 +55,7 @@ Luis||3.5
 Ana||4.0
 Pedro||2.2
 ~~~
+
 El resultado de ejecutar el código es el siguiente
 
 ### Enlaces
@@ -67,16 +67,18 @@ entre corchetes agregamos el nombre del enlace y entre paréntesis la url del en
 
 ### Lista de tareas
 Además de la sintaxis para listas se agrega [ ],[x] ó [X]
+
 ~~~
 * [x] introducción
 * [] marco teórico
 * [] Justificación
 ~~~~
+
 * [x] introducción
 * [ ] marco teórico
 * [ ] Justificación
 
-
+~~~
 
 ### imágenes 
 
