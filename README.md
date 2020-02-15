@@ -31,11 +31,13 @@ Se pueden utilizar varios símbolos: *,-,+
 - guayaba
 + naranja
 ~~~
-para poner letra cursiva se escribe el texto entre asteriscos *Cursiva*
 
-Para usar negrita se escribe el texto entre doble asteriscco **texto**
+Para poner letra *Cursiva* se escribe el texto entre asteriscos
 
-Para hacer uso del tachado ~~tachado~~ Alt+126
+Para usar texto en **negrita** se escribe el texto entre doble asteriscco
+
+Para hacer uso del ~~tachado~~ se escribe el texto entre doble virgulilla que la puedes sacar usando Alt+126
+
 *** linea horizontal
 ~~~ barra
 <--comentario→
