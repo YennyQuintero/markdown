@@ -80,7 +80,7 @@ Además de la sintaxis para listas se agrega [ ],[x] ó [X]
 
 ### imágenes 
 
-![bora](imagen/imagen/santorini.jpg "prueba")
+![prueba] (imagenes/santorini.jpg "prueba")
 
 ### citas
 > esta es una cita
