@@ -38,8 +38,12 @@ Para usar texto en **negrita** se escribe el texto entre doble asteriscco
 
 Para hacer uso del ~~tachado~~ se escribe el texto entre doble virgulilla que la puedes sacar usando Alt+126
 
-*** linea horizontal
+si requieres usar una linea horizontal sólo debes usar tres asteriscos 
+*** 
+
+para insertar una barra usas tres virgulillas usando Alt+126
 ~~~ barra
+
 <--comentario→
 
 ## Generar Tablas
@@ -75,7 +79,8 @@ Además de la sintaxis para listas se agrega [ ],[x] ó [X]
 
 
 ### imágenes 
-![etiqueta] (ruta de la imagen)
+
+![carro] (imagen/carro.png)
 
 ### citas
 > esta es una cita
