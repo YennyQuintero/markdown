@@ -33,8 +33,9 @@ Se pueden utilizar varios símbolos: *,-,+
 ~~~
 para poner letra cursiva se escribe el texto entre asteriscos *Cursiva*
 
-Para usar negrita **texto**
-tachado ~~tachado~~ Alt+126
+Para usar negrita se escribe el texto entre doble asteriscco **texto**
+
+Para hacer uso del tachado ~~tachado~~ Alt+126
 *** linea horizontal
 ~~~ barra
 <--comentario→
